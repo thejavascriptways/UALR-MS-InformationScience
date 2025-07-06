@@ -5,3 +5,7 @@
 [UALR Library](https://ualr.edu/library)
 
 [Proquest for research papers lookup and other publications](https://www.proquest.com/pqdtlocal1009983/advanced?accountid=14482)
+
+[Search UALR Resources](https://ualr.primo.exlibrisgroup.com/discovery/search?vid=01UOALR_INST:UOALR&lang=en)
+
+
