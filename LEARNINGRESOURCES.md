@@ -8,4 +8,6 @@
 
 [Search UALR Resources](https://ualr.primo.exlibrisgroup.com/discovery/search?vid=01UOALR_INST:UOALR&lang=en)
 
+Science Direct [Search for peer-reviewed journal articles and book chapters (including open access content)](https://www.sciencedirect.com/)
+
 
