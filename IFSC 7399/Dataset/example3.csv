@@ -1,0 +1,23 @@
+pid,fname,lname,points,game_id
+p01,Albert,Genius,45,g21
+p01,Albert,Genius,45,g21
+p02,Grace,Walton,,g21
+p03,Ria,Mann,78,g11
+p04,Max ,Karlson,76,g40
+p04,Max ,Karlson,76,g40
+p05,Kate,White,90,g21
+p06,John,Smith,80,g33
+p07,Sam,Black,63,g05
+p08,Chris,Hall,50,g33
+p09,Philips,Brown,,g10
+p10,Serena,Lee,71,g21
+p02,Grace,Walton,50,g20
+p08,Chris,Hall,10,g53
+p06,John,Smith,88,g23
+p02,Grace,Walton,45,g91
+p01,Albert,Genius,15,g71
+p01,Albert,Genius,100,g31
+p05,Kate,White,7,g31
+p08,Chris,Hall,12,g83
+p08,Chris,Hall,56,g43
+p08,Chris,Hall,56,g43
